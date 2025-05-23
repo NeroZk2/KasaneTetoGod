@@ -23,4 +23,4 @@ No es estrictamente necesario indicar el motivo de una cancelacion, ya que agreg
 #### 3- El orden en el que esta estructurado el diagrama.
 
 ##### Justificacion:
-El orden de las acciones puede confundir a quien se le este explicando el diagrama, al ordenarlo puede ser mas sencillo de entender.
+El orden de las acciones puede confundir a quien se le este explicando el diagrama, al ordenarlo puede ser mas sencillo de entender. (Principalmente las acciones del estudiante).
