@@ -17,4 +17,13 @@ En este caso, un estudiante pude y no debe ver el historial de solicitudes de ot
 
 #### 2- En calcelar reserva falta un `<Extend>`.
 
+##### Justificacion:
+No es estrictamente necesario indicar el motivo de una cancelacion, ya que agregar dicho motivo debe ser opcional.
+
+#### 3- El orden en el que esta estructurado el diagrama.
+
+~~~ eded
+
+
+
 
