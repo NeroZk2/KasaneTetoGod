@@ -1,5 +1,5 @@
 # KasaneTetoGod
-** Dilan Abarca Seccion 2 **
+**Dilan Abarca Seccion 2**
 
 ---
 
