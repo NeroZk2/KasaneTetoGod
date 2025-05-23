@@ -1,6 +1,11 @@
 # KasaneTetoGod
 # Detectar errores en 3 diagramas:
 
+#### Dilan Abarca
+#### Seccion 2
+
+---
+
 ## Diagrama de caso de uso:
 
 ### Errorers:
