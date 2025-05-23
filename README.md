@@ -1,10 +1,9 @@
 # KasaneTetoGod
-# Detectar errores en 3 diagramas:
-
-#### Dilan Abarca
-#### Seccion 2
+** Dilan Abarca Seccion 2 **
 
 ---
+
+# Detectar errores en 3 diagramas:
 
 ## Diagrama de caso de uso:
 
