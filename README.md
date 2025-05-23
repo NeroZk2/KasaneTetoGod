@@ -37,3 +37,12 @@ El orden de las acciones puede confundir a quien se le este explicando el diagra
 
 ## Diagrama de clases:
 
+### Errorers:
+- A la clase usuario le falta el metodo para consultar el estado de sus solicitudes.
+- La clase usuario debe relacionarse directamente a la clase SistemaReservas.
+- Al administrador le falta el metodo Generar reportes.
+
+#### 1- A la clase usuario le falta el metodo para consultar el estado de sus solicitudes.
+
+##### Justificacion:
+En el diagrama de caso de uso se muestra como el Estudiante/Usuario puede realizar esta accion.
